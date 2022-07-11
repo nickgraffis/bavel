@@ -1,0 +1,193 @@
+{
+  "vite/modulepreload-polyfill": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "src/assets/logo.svg": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "node_modules/@georgedoescode/spline/spline.js": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "node_modules/simplex-noise/dist/esm/simplex-noise.js": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "src/components/background.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "plugin-vue:export-helper": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "src/components/background.vue": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "src/App.vue": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "vite/preload-helper": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "node_modules/vue-router/dist/vue-router.mjs": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "src/router.js": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "src/index.css": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "src/main.js": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "src/entry-client.js": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "index.html": [
+    "/test/assets/logo.abd9cb13.svg",
+    "/test/assets/DankMono-Bold.d89b0eba.woff2",
+    "/test/assets/DankMono-Italic.1a9414bc.woff2",
+    "/test/assets/DankMono-Regular.2fe2c7c9.woff2"
+  ],
+  "About.b5e0bfaf.js": [
+    "/assets/About.efbff599.css"
+  ],
+  "External.14b7ea8c.js": [],
+  "Home.7ef3e8b7.js": [],
+  "Store.6200a638.js": [
+    "/assets/Store.424e932e.css"
+  ],
+  "src/assets/button.css": [
+    "/test/assets/About.b5e0bfaf.js",
+    "/test/assets/About.efbff599.css"
+  ],
+  "src/components/button.js": [
+    "/test/assets/About.b5e0bfaf.js",
+    "/test/assets/About.efbff599.css"
+  ],
+  "src/pages/About.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/test/assets/About.b5e0bfaf.js",
+    "/test/assets/About.efbff599.css"
+  ],
+  "src/pages/About.vue": [
+    "/test/assets/About.b5e0bfaf.js",
+    "/test/assets/About.efbff599.css"
+  ],
+  "node_modules/example-external-component/ExampleExternalComponent.vue": [
+    "/test/assets/External.14b7ea8c.js"
+  ],
+  "src/pages/External.vue": [
+    "/test/assets/External.14b7ea8c.js"
+  ],
+  "src/assets/images/projects/theeventcommunity/landing.png": [
+    "/test/assets/Home.7ef3e8b7.js",
+    "/test/assets/landing.b3a58a84.png",
+    "/test/assets/blog.eed5cae8.png"
+  ],
+  "src/assets/images/projects/theeventcommunity/blog.png": [
+    "/test/assets/Home.7ef3e8b7.js",
+    "/test/assets/landing.b3a58a84.png",
+    "/test/assets/blog.eed5cae8.png"
+  ],
+  "src/pages/Home.vue": [
+    "/test/assets/Home.7ef3e8b7.js",
+    "/test/assets/landing.b3a58a84.png",
+    "/test/assets/blog.eed5cae8.png"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/env.js": [
+    "/test/assets/Store.6200a638.js",
+    "/test/assets/Store.424e932e.css"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/const.js": [
+    "/test/assets/Store.6200a638.js",
+    "/test/assets/Store.424e932e.css"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/time.js": [
+    "/test/assets/Store.6200a638.js",
+    "/test/assets/Store.424e932e.css"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
+    "/test/assets/Store.6200a638.js",
+    "/test/assets/Store.424e932e.css"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/index.js": [
+    "/test/assets/Store.6200a638.js",
+    "/test/assets/Store.424e932e.css"
+  ],
+  "node_modules/vuex/dist/vuex.esm-bundler.js": [
+    "/test/assets/Store.6200a638.js",
+    "/test/assets/Store.424e932e.css"
+  ],
+  "src/pages/Store.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/test/assets/Store.6200a638.js",
+    "/test/assets/Store.424e932e.css"
+  ],
+  "src/pages/Store.vue": [
+    "/test/assets/Store.6200a638.js",
+    "/test/assets/Store.424e932e.css"
+  ]
+}
